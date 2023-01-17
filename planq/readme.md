@@ -11,7 +11,7 @@ NODE  | CPU     | RAM      | SSD     |
 
 ### Install otomatis
 ```
-wget -O planq.sh https://raw.githubusercontent.com/enodex/planq/main/planq.sh && chmod +x planq.sh && ./planq.sh
+wget -O planq.sh https://raw.githubusercontent.com/enodex/testnet/main/planq/planq.sh && chmod +x planq.sh && ./planq.sh
 ```
 ### Load variable ke system
 ```
