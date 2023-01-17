@@ -9,10 +9,9 @@ NODE  | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Mainnet | 4          | 32         | 1TB  |
 
-This is tutorial from official github planq
 ### Install otomatis
 ```
-wget -O planq.sh https://raw.githubusercontent.com/Whalealert/planq-mainnet/main/planq.sh && chmod +x planq.sh && ./planq.sh
+wget -O planq.sh https://raw.githubusercontent.com/enodex/planq/main/planq.sh && chmod +x planq.sh && ./planq.sh
 ```
 ### Load variable ke system
 ```
